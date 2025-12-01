@@ -1,2 +1,0 @@
-# iptvjrs
-iptvjrs
