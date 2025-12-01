@@ -77,23 +77,23 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
 # Otros/Extras
 #EXTINF:-1 tvg-id="0937" tvg-name="Telemax" group-title="Otros/Extras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LS85.png" group-title="CD Cd Aut Bs As",LS85 El Trece - 33.1TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__33.1LS85ELTREC
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LS86.png" group-title="CD Cd Aut Bs As",LS86 America - 36.1TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__36.1LS86AMERIC
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LU80.png" group-title="BA Buenos Aires",LU80 El Nueve TV - 27.1TV - Bahia Blanca - BA Buenos Aires
-https://radiosargentina.com.ar/php/artvYT.php?id=ARBABAHIA__27.1LU80ELNUEV
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELEFE.png" group-title="CD Cd Aut Bs As",LS84 Telefe - 34.1TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__34.1LS84TELEFE
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITIEMIA.png" group-title="CD Cd Aut Bs As",TierraMia - CTV - CABA TV Cable - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTIERRAMIA_
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---TLX.png" group-title="CD Cd Aut Bs As",Telemax - 26.3TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__26.3TELEMAX___
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----TN.png" group-title="CD Cd Aut Bs As",TN YT Todo Noticias - CTV - CABA TV Cable - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA_____CTNYTTODONO
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----LN.png" group-title="CD Cd Aut Bs As",LN+ - 25.3TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__25.3LN________
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILN1049.png" group-title="CD Cd Aut Bs As",LN+ Musica - 104.9 TV - CABA FM - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA104.9_LN_MUSICA_
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----CM.png" group-title="CD Cd Aut Bs As",Canal de la Musica - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CCANALDELAM
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-LA100.png" group-title="CD Cd Aut Bs As",La 100 - 99.9 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_99.9_LA100_____
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIROCPOP.png" group-title="CD Cd Aut Bs As",Rock & Pop - 95.9 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA_95.9_ROCK_POP__
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIVORTER.png" group-title="CD Cd Aut Bs As",Vorterix - 92.1 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_92.1_VORTERIX__
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRL321.png" group-title="CD Cd Aut Bs As",LRL321 Vale - 97.5 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA_97.5_LRL321VALE
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRL312.png" group-title="CD Cd Aut Bs As",LRL312 Mega - 98.3 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA_98.3_LRL312MEGA
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRL318.png" group-title="CD Cd Aut Bs As",LRL318 Latina - 101.1 TV - CABA FM - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA101.1_LRL318LATI
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIMAGAZI.png" group-title="CD Cd Aut Bs As",Ciudad Magazine - CTV - CABA TV Cable - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CCIUDADMAGA
