@@ -6,7 +6,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" group-title="General/Abierta" tvg-logo="https://files.catbox.moe/ql9rbg.png",Canal de la Ciudad
 https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="General/Abierta" tvg-logo="https://files.catbox.moe/k3fp5s.png",El Nueve
-https://short.do/u7htXU
+http://107.152.39.199:8030/hls/canal7.m3u8
 #EXTINF:-1 tvg-id="0915" group-title="General/Abierta" tvg-name="El Trece" tvg-logo="https://files.catbox.moe/finwuj.png",El Trece
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.m3u8player.online/
@@ -34,7 +34,7 @@ https://g1.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_
 #EXTINF:-1 tvg-id="0922" tvg-name="Argentina 12" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Argentina12_2025.svg/2560px-Argentina12_2025.svg.png",Argentina 12
 https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__24.5ARGENTINA1
 #EXTINF:-1 tvg-id="0904" tvg-name="LN+" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/La-Nacion-Mas-Logo.svg/2560px-La-Nacion-Mas-Logo.svg.png",LN+
-https://anym3u8player.com/youtube.php/id/690bf5345bb37.m3u8
+https://radiosargentina.com.ar/php/artvYT.php?id=ARCD_CABA__25.3LN________
 #EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -89,3 +89,4 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_99.9_LA100_____
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_92.1_VORTERIX__
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILAPATR.png" group-title="CD Cd Aut Bs As",La Patriada - 102.1 TV - CABA FM - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA102.1_LAPATRIADA
+
