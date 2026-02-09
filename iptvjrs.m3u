@@ -79,27 +79,3 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 # Documentales/Temáticos
 #EXTINF:-1 tvg-id="" tvg-name="Naturaleza" group-title="Documentales/Temáticos",Naturaleza
 https://anym3u8player.com/youtube.php/id/690bf6de0cc9e.m3u8
-
----
-# Temáticos Argentinos
-#EXTINF:-1 tvg-id="0912" tvg-name="Argentinisima Satelital" group-title="Temáticos Argentinos" tvg-logo="https://files.catbox.moe/7cghqq.png",Argentinisima Satelital
-https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1 tvg-id="0907" tvg-name="Canal 9 Multivisión" group-title="Temáticos Argentinos" tvg-logo="https://files.catbox.moe/iqx1h4.png",Canal 9 Multivisión
-https://panel.host-live.com:19360/8250/8250.m3u8
-#EXTINF:-1 tvg-id="0534" tvg-name="Canal de la Música" group-title="Temáticos Argentinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png",Canal de la Música 
-https://g1.mc-slo.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
-#EXTINF:-1 tvg-id="0936" tvg-name="Ciudad Magazine" group-title="Temáticos Argentinos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png",Ciudad Magazine
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
-
----
-
-# Otros/Extras
-#EXTINF:-1 tvg-id="0937" tvg-name="Telemax" group-title="Otros/Extras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png",Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe HD (ARG)" tvg-logo="https://yt3.ggpht.com/Bad3GqpyvghQQ9OvPHbiuU2CKCZrUwJCkCs5as1ypmYEWgQGtb5Fn_QKxvgv_XqDUfTFa2g8=s48-c-k-c0x00ffffff-no-rj" tvg-country="AR" tvg-language="Spanish" group-title="Variedades", Telefe HD (ARG)
-https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-#EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-name="CANAL 9 HD" tvg-logo="https://yt3.ggpht.com/grbLuho2_3nxkMrr0h1l-pczGcf5qgskRU-5zb8SvB2ZT2MVeeFQNvowGjU6CPX1a3diHloZXA=s48-c-k-c0x00ffffff-no-rj" tvg-country="AR" tvg-language="Spanish" group-title="Variedades", CANAL 9 HD
-https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
-
-
-
